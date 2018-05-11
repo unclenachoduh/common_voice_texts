@@ -1,0 +1,100 @@
+There's a note in the homework.
+So I think we're only looping through all lines.
+Also, it says treat all words in context groups as nouns.
+Do we just use the first index for context words?
+I guess so.
+That's the algorithm you told me about on page three.
+But I have no idea what its calculating.
+There is similarity between the two words.
+I still don't know what that number looks like.
+Oh my god, it just worked.
+I had a stupid bug in my code.
+So I am still choosing a word sense for noun group.
+But I could try using the first index real quick to see if it works.
+It runs really fast regardless.
+Is the example output the gold standard?
+The other students are reporting their numbers to match.
+I just matched.
+What are you using?
+I'm not sure now what that actually means.
+Anyway I'm assuming for now that the example file is the gold standard.
+Oh, nevermind.
+I need to reread what you said.
+What you said would make sense.
+Wait a minute.
+Thank you!
+Someone posted a solution to that on Slack.
+Yeah, I saw that Ryan said to just use zero.
+I haven't gotten to processing the file.
+I see now that someone mentioned Ryan specifically.
+Do you know why the example output has numbers between zero and one?
+The students are showing results that have numbers more like the numbers in the first part
+I don't know.
+I'm looking into that now.
+Have you figured out the algorithm for group disambiguation?
+Not yet.
+I've been working since class.
+I'm attempting to translate slide seven into language I understand.
+Here's what I have.
+Here's where I'm stuck.
+I still don't know how we determine that.
+The other one is descended from it.
+Did that work?
+What do you report for the third pair?
+Sorry, I'm distracted.
+I don't really understand what's going on to be honest.
+No Problem.
+I just started making progress again
+I haven't implemented that yet.
+Gotcha.
+I'm not sure how to pick the correct sense.
+Were not worrying about the group right?
+I'm not sure how to do that given the group.
+If it helps Corey and I are talking about it on Slack a bit.
+I'm still stuck on the same thing.
+I think I'm going to try this.
+I'm about to call it quits.
+I wasn't able to implement what I sent.
+I adapted it to accomplish the same thing and I got almost the same results.
+Good luck.
+I think I at least know how to proceed at this point.
+Actually, my performance is better than what others are posting online.
+My correlation is terrible though.
+You don't happen to know how to do that bottom portion do you?
+You know, Ryan does say that we normalize.
+Maybe that's how we'd get values between zero and one.
+Normalization only makes sense for the group disambiguation.
+Ryan says, "the Resnik similarity measure is not incremented not by one."
+I'm so turned around here.
+I don't think I've implemented anything close to what I was supposed to.
+Are we going to have homework for both classes?
+Fei said around the beginning of the quarter that we would have homework on neural networks.
+It may or may not happen.
+Maybe it'll be optional like last year.
+Don't judge me for wanting a whole two weeks off.
+Not at all.
+There are plenty of other things to spend time on.
+It does seem unlikely that the class will have homework.
+I'm not sure.
+I'm hoping no, but I also understand that they probably should give us homework that week.
+I'm not going to get my hopes up.
+Fei made homework ten optional last time, right?
+I also like the idea of doing something with neural networks, although I already had a whole class on them.
+At least I might be able to help.
+That's really good for you.
+That's true.
+I haven't done neural networks yet.
+I feel like that would be a very valuable bullet on my resume.
+Have you finished the homework yet?
+Nevermind.
+I found the answer in Wikipedia.
+I finished.
+Hey!
+Sorry, I was having dinner.
+I haven't gotten that far yet.
+No worries.
+Let me know if you have questions.
+Sweet.
+Thanks, man.
+Let's do something after class.
+That sounds great!

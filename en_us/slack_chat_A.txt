@@ -1,0 +1,100 @@
+Now that you mention it, that would be faster than I was thinking since it would only be looking for some linear number of features.
+I was thinking it would check for ten rules for each feature in each document.
+But its just ten features per document.
+Right.
+I just had to rewrite my parser function so I wasn't creating huge feature vectors still.
+Oh!
+Good point.
+You could reduce search time if you trash all the extra features right away.
+I will make sure to include that.
+All right, I've got it running.
+We'll see in another ten minutes or so.
+My trainer is long-running.
+I thought I had a bug because it was taking several minutes, but now I see that it just runs a lot of iterations and it's probably not efficient...
+I'm basically using the pseudo code.
+The pseudo code is taking a long time to process
+Mine is still going, so maybe it's in an infinite loop.
+I did test it on a very small data set.
+I'm not in an infinite loop.
+I'm printing what's going on every step of the way to be sure.
+You're using the pseudo code in the slide that says "for all transformations"?
+I just found my problem.
+I am in an infinite loop.
+I wasn't updating the variable.
+I'm not quite sure when to update it.
+I just put it in the innermost loop and I'm not messing with it.
+I think I mislead you.
+I think the best rule updates the data.
+But that's it.
+Yeah, that's what I'm doing.
+What I changed is keeping track of the gains over all iterations when choosing the best rule.
+I'm also keeping track of the gain for just the current iteration.
+Turns out mine isn't working correctly.
+The best gains, after six hundred, more closely match what other students were getting, though.
+I finally broke that infinite loop.
+Trying the code now and will let you know when I have an update.
+My code is too slow so I have to find a work around.
+Would you mind running your trainer on the test data?
+I think my code can do that in a reasonable amount of time.
+I'm confused.
+You want me to run my trainer on test data for what purpose?
+So I can compare the results with you.
+It's completely self-serving on my end.
+Oh, since it takes too long to do it on the test data?
+Yes.
+I think my code will execute before eleven o'clock.
+I need at least some sort of idea of how bad my code is before I start working on the decoder.
+My results aren't completely accurate, but I guess accurate enough to give you an idea.
+The first few rules are accurate so they should be right.
+If you wouldn't mind, that would be awesome.
+Mine started at five.
+I posted two because I'm trying a couple things.
+No guarantee that mine is correct.
+That's my best score.
+It's still running though.
+So I might not even make the eleven PM deadline tonight
+Are you able to print at each iteration?
+At least with that one we can be pretty sure what the results should look like.
+Yeah.
+My code is way too slow.
+I'll put that in the bin and let you know ASAP what I get.
+Also I might just lay mine to rest, unless I figure it out easily tonight.
+If I get a lot of points off I can submit a redo.
+Good point.
+Well I hope you get it pretty easily.
+And thanks for the help.
+Much appreciated.
+This was a rough week for me.
+Outside of school, that is.
+I suck so bad at optimization.
+I'm done, except my trainer is super slow.
+So when that terminates in the processor, I can run the classifier and be done.
+Nice.
+Do you understand how we're calculating the score?
+I understand how to get the lowest common denominator, but I don't know how to get its probability.
+Are we just needing the information content?
+That's near the end of the section
+Sorry, random thought.
+I understand them to be the same thing.
+I'm having a hard time relating that to the algorithm in the paper though.
+Did you mean to time stamp that video?
+Okay.
+Just making sure I didn't have to look around.
+I got it now.
+I was about to explain that myself.
+I appreciate the confirmation because I wasn't sure.
+That's the part I'm still confused about.
+But I guess that's simple to do afterwards.
+I'm not finding it.
+What section?
+Are you looking at this reading?
+Yes, but printed.
+Oh, thanks.
+How do we find the preferred sense?
+So, that's not giving me the right results.
+I think we pick the one with the greatest value.
+How do we know which word sense to use for each word?
+In the slides he uses the first index to get the first word sense.
+Don't we check them all?
+Oh, that explains why I was confused about what preferred sense meant.
+I'm doing that, but I'm getting the wrong results even with the built in function.

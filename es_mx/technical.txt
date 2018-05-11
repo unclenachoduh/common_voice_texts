@@ -1,0 +1,90 @@
+Deseas instalar un nuevo sistema operativo en su dispositivo.
+Necesitas abrir un navegador.
+Navegas a la página web.
+El archivo que deseas descargar se encuentra en esa página web.
+Debes descargar el instalador.
+Una vez que hayas descargado tu instalador, ábralo.
+Debes hacer clic en el botón de instalación.
+Sigue las instrucciones para instalar.
+Es posible que tengas que guardar el archivo en un DVD o una memoria flash USB.
+Reinicias tu computadora.
+Arranca tu computadora desde la memoria flash USB.
+El instalador se ejecutará desde tu memoria USB.
+Configuras tu sistema de acuerdo a tus preferencias.
+Haz clic en el iniciador de terminal para abrir la terminal.
+Si no ves el iniciador de terminal, haz clic en el selector de tablero.
+En el tablero, puedes ver tus aplicaciones.
+Puedes buscar tu iniciador de terminal en el tablero.
+Tu sistema operativo probablemente tiene una función de actualización automática.
+Si te sientes cómodo usando el terminal, puedes actualizar tu computadora con un comando de terminal.
+También puedes iniciar aplicaciones desde la terminal.
+Tu dispositivo se puede conectar a redes inalámbricas.
+Para conectarte a una red inalámbrica, deberás acceder a la configuración de tu sistema.
+Abres tu configuración de red.
+Abres tu configuración de red inalámbrica.
+Seleccionas la red inalámbrica a la que deseas conectarte.
+El ícono indicará que estás conectado a una red inalámbrica.
+Puedes conectar dispositivos adicionales a tu computadora.
+Conectas un teclado inalámbrico a tu computadora.
+Puedes instalar controladores desde la terminal.
+Debes tener cuidado cuando trabaja en la terminal.
+Ella quiere instalar un nuevo sistema operativo en su dispositivo.
+Ella necesita abrir un navegador.
+Ella navega a la página web.
+El archivo que ella desea descargar se encuentra en esa página web.
+Ella necesita descargar el instalador.
+Una vez que se descarga su instalador, ella lo abre.
+Ella debe hacer clic en el botón de instalación.
+Ella sigue las instrucciones para instalar.
+Es posible que necesite guardar el archivo en un DVD o memoria flash USB.
+Ella reinicia su computadora.
+Ella inicia su computadora desde la memoria flash USB.
+El instalador se ejecutará desde su memoria flash.
+Ella configura su sistema de acuerdo a sus preferencias.
+Ella hace clic en el iniciador de terminal para abrir su terminal.
+Si ella no ve el selector de terminal, hace clic en el selector de tablero.
+En el tablero, puede ver sus aplicaciones.
+Ella puede buscar su iniciador de terminal en el tablero.
+Su sistema operativo probablemente tiene una función de actualización automática.
+Si se siente cómoda usando el terminal, puede actualizar con un comando de terminal.
+Ella también puede iniciar aplicaciones desde la terminal.
+Su dispositivo se puede conectar a redes inalámbricas.
+Para conectarse a una red inalámbrica, ella necesitará acceder a la configuración de su sistema.
+Ella abre su configuración de red.
+Ella abre su configuración de red inalámbrica.
+Ella selecciona la red inalámbrica a la que quiere conectarse.
+El icono indicará que ella está conectada a una red inalámbrica.
+Ella puede conectar dispositivos adicionales a su computadora.
+Ella conecta un teclado inalámbrico a su computadora.
+Ella puede instalar controladores desde la terminal.
+Ella debe tener cuidado cuando trabaja en la terminal.
+Él quiere instalar un nuevo sistema operativo en su dispositivo.
+Él necesita abrir un navegador.
+Él navega a la página web.
+El archivo que quiere descargar se encuentra en esa página web.
+Él necesita descargar el instalador.
+Una vez que se descarga su instalador, él lo abre.
+Él debe hacer clic en el botón de instalación.
+Él sigue las instrucciones para instalar.
+Es posible que necesite guardar el archivo en un DVD o unidad flash USB.
+Él reinicia su computadora.
+Él inicia su computadora desde la unidad flash USB.
+El instalador se ejecutará desde su unidad flash.
+Él configura su sistema de acuerdo a sus preferencias.
+Él hace clic en el iniciador de terminal para abrir su terminal.
+Si él no ve el iniciador de terminal, hace clic en el selector de tablero.
+En el tablero, él puede ver sus aplicaciones.
+Él puede buscar su iniciador de terminal en el tablero.
+Su sistema operativo probablemente tiene una función de actualización automática.
+Si se siente cómodo usando el terminal, puede actualizarlo con un comando de terminal.
+También él puede iniciar aplicaciones desde la terminal.
+Su dispositivo se puede conectar a redes inalámbricas.
+Para conectarse a una red inalámbrica, él deberá acceder a la configuración de su sistema.
+Él abre su configuración de red.
+Él abre su configuración de red inalámbrica.
+Él selecciona la red inalámbrica a la que quiere conectarse.
+El ícono indicará que está conectado a una red inalámbrica.
+Él puede conectar dispositivos adicionales a su computadora.
+Él Conectó un teclado inalámbrico a su computadora.
+Él puede instalar controladores desde la terminal.
+Él debe tener cuidado cuando trabaja en la terminal.

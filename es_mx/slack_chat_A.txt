@@ -1,0 +1,100 @@
+Ahora que lo mencionas, eso sería más rápido de lo que pensaba, ya que solo buscaría un número lineal de funciones.
+Estaba pensando que verificaría diez reglas para cada característica en cada documento.
+Pero son solo diez características por documento.
+Correcto.
+Solo tuve que volver a escribir mi función de analizador así que no estaba creando enormes vectores de características.
+Vaya!
+Buen punto.
+Podrías reducir el tiempo de búsqueda si borraras todas las funciones adicionales de inmediato.
+Me aseguraré de incluir eso.
+Está bien, lo tengo funcionando.
+Veremos en otros diez minutos más o menos.
+Mi entrenador es de larga duración.
+Pensé que tenía un error porque me llevaba varios minutos, pero ahora veo que solo ejecuta muchas iteraciones y probablemente no sea eficiente ...
+Básicamente estoy usando el pseudo código.
+El pseudo código está tardando mucho tiempo en terminar.
+El mío todavía está en marcha, así que tal vez esté en un ciclo infinito.
+Lo probé en un conjunto de datos muy pequeño.
+No estoy en un ciclo infinito.
+Estoy imprimiendo lo que está sucediendo en cada paso para estar seguro.
+¿Estás usando el pseudo código en la diapositiva que dice "para todas las transformaciones"?
+Acabo de encontrar mi problema.
+Estoy en un ciclo infinito.
+No estaba actualizando la variable.
+No estoy seguro de cuándo actualizarlo.
+Simplemente lo puse en el ciclo más interno y no estoy jugando con eso.
+Creo que te engañé.
+Creo que la mejor regla actualiza los datos.
+Pero eso es todo.
+Sí, eso es lo que estoy haciendo.
+Lo que cambié es hacer un seguimiento de las ganancias en todas las iteraciones al elegir la mejor regla.
+También estoy siguiendo la ganancia solo por la iteración actual.
+Resulta que el mío no está funcionando correctamente.
+Sin embargo, las mejores ganancias, después de seiscientos, coinciden más con lo que otros estudiantes estaban obteniendo.
+Finalmente rompí ese ciclo infinito.
+Estoy probando el código ahora y le avisará cuando tenga una actualización.
+Mi código es demasiado lento, así que tengo que encontrar una solución alternativa.
+¿Me haces el favor de ejecutar su entrenador en los datos de prueba?
+Creo que mi código puede hacer eso en un tiempo razonable.
+Estoy confundido.
+¿Quieres que ejecute mi entrenador en los datos de prueba con qué propósito?
+Para comparar mis resultados con los tuyos.
+Es completamente egoísta de mi parte.
+Oh, ya que lleva mucho tiempo hacerlo en los datos de prueba?
+Sí.
+Creo que mi código se ejecutará antes de las once.
+Necesito al menos un idea de cuán lento es mi código antes de empezar a trabajar en el decodificador.
+Mis resultados no son completamente precisos, pero creo que son lo suficientemente precisos como para hacerte una idea.
+Las primeras reglas son precisas, por lo que deberían ser correctas.
+Si no te molesta, eso sería increíble.
+El mío comenzó a las cinco.
+Publiqué dos porque estoy probando un par de cosas.
+No hay garantía de que el mío sea correcto.
+Esa es mi mejor puntuación.
+Sin embargo, todavía está funcionando.
+Así que tal vez ni siquiera termino para las once esta noche
+¿Puedes imprimir en cada iteración?
+Al menos con eso podemos estar seguros de cómo deberían ser los resultados.
+Claro.
+Mi código es demasiado lento.
+Lo pondré en el bin y le diré lo antes que pueda.
+También podría dejar descansar el mío, a menos que lo descubra fácilmente esta noche.
+Si obtengo muchos puntos, puedo enviar un rehacer.
+Buen punto.
+Bueno, espero que lo entiendas muy fácilmente.
+Y gracias por la ayuda.
+Mil gracias.
+Esta fue una semana difícil para mí.
+Fuera de la escuela, ten en cuenta.
+Estoy tan mal para la optimización.
+Terminé, excepto que mi entrenador es súper lento.
+Entonces, cuando eso termina en el procesador, puedo ejecutar el clasificador y terminar.
+Genial.
+¿Entiendes cómo estamos calculando el puntaje?
+Entiendo cómo obtener el mínimo común denominador, pero no sé cómo obtener su probabilidad.
+¿Solo necesitamos el contenido de la información?
+Eso es casi el final de la sección
+Lo siento, pensamiento aleatorio.
+Entiendo que sean la misma cosa.
+Sin embargo, estoy teniendo problemas para relacionar eso con el algoritmo en el libro.
+¿Querías marcar el tiempo de ese video?
+Bueno.
+Solo asegurándome de no tener que buscar.
+Lo entiendo ahora.
+Estaba a punto de explicar eso yo mismo.
+Agradezco la confirmación porque no estaba seguro.
+Esa es la parte de la que todavía estoy confundido.
+Pero creo que es fácil de hacer después.
+No lo encuentro.
+¿Cuál sección?
+¿Estás leyendo esta lectura?
+Sí, pero impreso.
+Ya. Gracias.
+¿Cómo encontramos el sentido preferido?
+Entonces, eso no me está dando los resultados correctos.
+Creo que escogemos el que tiene el mayor valor.
+¿Cómo sabemos cuál sentido de la palabra usar para cada palabra?
+En las diapositivas usa el primer índice para obtener el primer sentido de la palabra.
+¿No los revisamos todos?
+Oh, eso explica por qué estaba confundido acerca de lo que significaba el sentido preferido.
+Lo estoy haciendo, pero tengo los resultados incorrectos incluso con la función incorporada.

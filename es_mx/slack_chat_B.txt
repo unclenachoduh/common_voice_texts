@@ -1,0 +1,100 @@
+Hay una nota en la tarea.
+Así que creo que solo estamos recorriendo todas lineas.
+Además, dice que todas las palabras en grupos de contexto se tratan como sustantivos.
+¿Usamos Únicamente el primer índice para palabras de contexto?
+Supongo que sí.
+Ese es el algoritmo del que me habló en la página tres.
+Pero no tengo idea de lo que está calculando.
+Hay similitud entre las dos palabras.
+Todavía no sé cómo es ese número.
+Dios mío, acaba funcionar.
+había un error estúpido en mi código.
+Así que todavía estoy eligiendo un sentido de palabra para el grupo de nombres.
+Pero podría intentar usar el primer índice rápidamente para ver si funciona.
+Funciona muy rápido de todos modos.
+¿El resultado de ejemplo es el estándar de oro?
+Los otros estudiantes han dicho que sus números coinciden.
+Yo apenas ví lo mismo.
+¿Qué usas?
+No estoy seguro de lo que realmente significa.
+De todos modos, asumo por ahora que el archivo de ejemplo es el estándar de oro.
+Oh, olvídelo.
+Necesito volver a leer lo que dijiste.
+Lo que dijiste tendría sentido.
+Espera un minuto.
+¡Gracias!
+Alguien publicó una solución para eso en Slack.
+Sí, vi que Rodrigo dijo que usáramos zero.
+Todavía proceso el archivo.
+Ahora veo que alguien mencionó a Rogelio específicamente.
+¿Sabes por qué el resultado del ejemplo tiene números entre cero y uno?
+Los estudiantes están mostrando resultados que tienen números más como los números en la primera parte.
+No lo sé.
+Estoy investigando eso ahora.
+¿Has descubierto el algoritmo para la desambiguación grupal?
+Aún no.
+He estado trabajando desde la clase.
+Estoy intentando traducir la diapositiva siete a un lenguaje que entiendo.
+Esto es lo que tengo.
+Aquí es donde estoy atascado.
+Aún no sé cómo lo determinamos.
+El otro es descendiente de él.
+¿Eso funcionó?
+¿Qué reportes para el tercer par?
+Lo siento, estoy distraído.
+No entiendo bien lo que está ocurre para ser honesto.
+No hay problema.
+Empecé a lograr progresos nuevamente
+No lo he implementado todavía.
+Entendido.
+No estoy seguro de cómo elegir el sentido correcto.
+No nos preocupamos por el grupo ¿verdad?
+No estoy seguro de cómo hacer eso dado el grupo.
+Si te intersa Coonstantino y yo estamos hablando un poco en Slack.
+Todavía estoy atascado en lo mismo.
+Creo que voy a intentar esto.
+Estoy por rendirme.
+No pude implementar lo que envié.
+Lo adapté para lograr lo mismo y obtuve casi los mismos resultados.
+Buena suerte.
+Creo que al menos sé cómo proceder desde aquí.
+En realidad, mi desempeño es mejor que lo que otros publican en línea.
+Mi correlación es terrible sin embargo.
+No sabes cómo cumplir con la parte inferior, ¿verdad?
+Sabes, Julio dice que lo normalizamos.
+Tal vez así es como obtendríamos valores entre cero y uno.
+La normalización solo tiene sentido para la desambiguación grupal.
+José dice, "la medida de similitud de Resnik no se incrementa por uno".
+Tengo la mente revuelta.
+No creo que haya implementado nada parecido a lo que debería haber hecho.
+¿Tendremos tarea para ambas clases?
+Fernanda dijo al principio del trimestre que tendríamos tarea en las redes neuronales.
+Puede o no puede suceder.
+Quizás sea opcional como el año pasado.
+No me juzgues por querer dos semanas enteras de descanso.
+De ningún modo.
+Hay muchas otras cosas que hacer para pasar el tiempo.
+Parece poco probable que tengamos tarea en la clase.
+No estoy seguro.
+Espero que no, pero también entiendo que probablemente deberían darnos la tarea esa semana.
+No voy a hacerme ilusiones.
+Julieta hizo la tarea diez la última vez, ¿cierto?
+También me gusta la idea de hacer algo con redes neuronales, aunque ya tenía una clase completa sobre ellas.
+Al menos podría ser capaz de ayudar.
+Eso es realmente bueno para ti.
+Es verdad.
+No he hecho redes neuronales todavía.
+Siento que sería una viñeta muy valiosa en mi currículum.
+¿Ya has terminado la tarea?
+No importa.
+Encontré la respuesta en Wikipedia.
+Acabé.
+¡Oye!
+Perdón, estaba cenando.
+No he llegado tan lejos todavía.
+No hay problema.
+Hazmelo saber si tienes preguntas.
+Chévere.
+Gracias compa.
+Hagamos algo después de la clase.
+¡Me parece genial!

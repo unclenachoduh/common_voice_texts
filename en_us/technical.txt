@@ -1,0 +1,93 @@
+
+You want to install a new operating system on your device.
+You need to open a browser.
+You navigate to the web page.
+The file you want to download in located on that web page.
+You need to download the installer.
+Once your installer is downloaded, open it.
+You should click the install button.
+You follow the instructions to install.
+It is possible that you will need to save the file to a DVD or USB flash drive.
+You restart your computer.
+You boot your computer from the USB flash drive.
+The installer will run from your flash drive.
+You configure your system according to your preferences.
+Click on the terminal launcher to open your terminal.
+If you don't see the terminal launcher, click on the dash launcher.
+In the dash, you can see your applications.
+You can search for your terminal launcher in the dash.
+Your OS probably has an automatic update feature.
+If you are comfortable using the terminal, you can update with a terminal command.
+You can also launch applications from the terminal.
+Your device can connect to wireless networks.
+To connect to a wireless network, you will need to access your system settings.
+You open your network settings.
+You open your wireless network settings.
+You select the wireless network you want to connect to.
+The icon will indicate that you are connected to a wireless network.
+You can connect additional devices to your computer.
+You connect a wireless keyboard to your computer.
+You can install drivers from the terminal.
+You must be careful when you work in the terminal.
+#
+She wants to install a new operating system on her device.
+She needs to open a browser.
+She navigates to the web page.
+The file she wants to download in located on that web page.
+She needs to download the installer.
+Once her installer is downloaded, she opens it.
+She should click the install button.
+She follows the instructions to install.
+It is possible that she will need to save the file to a DVD or USB flash drive.
+She restarts her computer.
+She boots her computer from the USB flash drive.
+The installer will run from her flash drive.
+She configures her system according to her preferences.
+She clicks on the terminal launcher to open her terminal.
+If she doesn't see the terminal launcher, she clicks on the dash launcher.
+In the dash, she can see her applications.
+She can search for her terminal launcher in the dash.
+Her OS probably has an automatic update feature.
+If she is comfortable using the terminal, she can update with a terminal command.
+She can also launch applications from the terminal.
+Her device can connect to wireless networks.
+To connect to a wireless network, she will need to access her system settings.
+She opens her network settings.
+She opens her wireless network settings.
+She selects the wireless network she wants to connect to.
+The icon will indicate that she is connected to a wireless network.
+She can connect additional devices to her computer.
+She connect a wireless keyboard to her computer.
+She can install drivers from the terminal.
+She must be careful when she works in the terminal.
+#
+He wants to install a new operating system on his device.
+He needs to open a browser.
+He navigates to the web page.
+The file he wants to download in located on that web page.
+He needs to download the installer.
+Once his installer is downloaded, he opens it.
+He should click the install button.
+He follows the instructions to install.
+It is possible that he will need to save the file to a DVD or USB flash drive.
+He restarts his computer.
+He boots his computer from the USB flash drive.
+The installer will run from his flash drive.
+He configures his system according to his preferences.
+He clicks on the terminal launcher to open his terminal.
+If he doesn't see the terminal launcher, he clicks on the dash launcher.
+In the dash, he can see his applications.
+He can search for his terminal launcher in the dash.
+His OS probably has an automatic update feature.
+If he is comfortable using the terminal, he can update with a terminal command.
+He can also launch applications from the terminal.
+His device can connect to wireless networks.
+To connect to a wireless network, he will need to access his system settings.
+He opens his network settings.
+He opens his wireless network settings.
+He selects the wireless network he wants to connect to.
+The icon will indicate that he is connected to a wireless network.
+He can connect additional devices to his computer.
+He connect a wireless keyboard to his computer.
+He can install drivers from the terminal.
+He must be careful when he works in the terminal.
